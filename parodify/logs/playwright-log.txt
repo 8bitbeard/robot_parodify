@@ -1,0 +1,10 @@
+{"level":30,"time":"2021-02-08T23:55:59.919Z","pid":5440,"hostname":"DESKTOP-N25BM26","msg":"Listening on 61967"}
+{"level":30,"time":"2021-02-08T23:56:00.402Z","pid":5440,"hostname":"DESKTOP-N25BM26","msg":"Changed active context"}
+{"level":30,"time":"2021-02-08T23:56:00.607Z","pid":5440,"hostname":"DESKTOP-N25BM26","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-08T23:56:00.607Z","pid":5440,"hostname":"DESKTOP-N25BM26","msg":"Changed active page"}
+{"level":30,"time":"2021-02-08T23:56:12.134Z","pid":5440,"hostname":"DESKTOP-N25BM26","msg":"Changed active context"}
+{"level":30,"time":"2021-02-08T23:56:12.134Z","pid":5440,"hostname":"DESKTOP-N25BM26","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-08T23:56:12.134Z","pid":5440,"hostname":"DESKTOP-N25BM26","msg":"Changed active page"}
+{"level":30,"time":"2021-02-08T23:56:12.166Z","pid":5440,"hostname":"DESKTOP-N25BM26","msg":"Changed active context"}
+{"level":30,"time":"2021-02-08T23:56:12.166Z","pid":5440,"hostname":"DESKTOP-N25BM26","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-08T23:56:12.166Z","pid":5440,"hostname":"DESKTOP-N25BM26","msg":"Changed active page"}
