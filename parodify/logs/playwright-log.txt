@@ -1,50 +1,86 @@
-{"level":30,"time":"2021-02-10T10:31:02.318Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Listening on 59738"}
-{"level":30,"time":"2021-02-10T10:31:02.985Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active context"}
-{"level":30,"time":"2021-02-10T10:31:03.252Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Video path: undefined"}
-{"level":30,"time":"2021-02-10T10:31:03.252Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active page"}
-{"level":30,"time":"2021-02-10T10:31:14.092Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active context"}
-{"level":30,"time":"2021-02-10T10:31:14.093Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changing current active page"}
-{"level":30,"time":"2021-02-10T10:31:14.093Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active page"}
-{"level":30,"time":"2021-02-10T10:31:14.120Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active context"}
-{"level":30,"time":"2021-02-10T10:31:14.120Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changing current active page"}
-{"level":30,"time":"2021-02-10T10:31:14.120Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active page"}
-{"level":30,"time":"2021-02-10T10:31:14.793Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active context"}
-{"level":30,"time":"2021-02-10T10:31:15.107Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Video path: undefined"}
-{"level":30,"time":"2021-02-10T10:31:15.107Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active page"}
-{"level":30,"time":"2021-02-10T10:31:20.452Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
-{"level":30,"time":"2021-02-10T10:31:20.918Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active context"}
-{"level":30,"time":"2021-02-10T10:31:20.918Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changing current active page"}
-{"level":30,"time":"2021-02-10T10:31:20.918Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active page"}
-{"level":30,"time":"2021-02-10T10:31:20.949Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active context"}
-{"level":30,"time":"2021-02-10T10:31:20.949Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changing current active page"}
-{"level":30,"time":"2021-02-10T10:31:20.949Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active page"}
-{"level":30,"time":"2021-02-10T10:31:21.724Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active context"}
-{"level":30,"time":"2021-02-10T10:31:21.954Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Video path: undefined"}
-{"level":30,"time":"2021-02-10T10:31:21.954Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active page"}
-{"level":30,"time":"2021-02-10T10:31:35.733Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
-{"level":30,"time":"2021-02-10T10:31:36.247Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active context"}
-{"level":30,"time":"2021-02-10T10:31:36.247Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changing current active page"}
-{"level":30,"time":"2021-02-10T10:31:36.247Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active page"}
-{"level":30,"time":"2021-02-10T10:31:36.280Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active context"}
-{"level":30,"time":"2021-02-10T10:31:36.280Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changing current active page"}
-{"level":30,"time":"2021-02-10T10:31:36.280Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active page"}
-{"level":30,"time":"2021-02-10T10:31:37.000Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active context"}
-{"level":30,"time":"2021-02-10T10:31:37.247Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Video path: undefined"}
-{"level":30,"time":"2021-02-10T10:31:37.247Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active page"}
-{"level":30,"time":"2021-02-10T10:31:43.698Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
-{"level":30,"time":"2021-02-10T10:31:44.166Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active context"}
-{"level":30,"time":"2021-02-10T10:31:44.166Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changing current active page"}
-{"level":30,"time":"2021-02-10T10:31:44.166Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active page"}
-{"level":30,"time":"2021-02-10T10:31:44.198Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active context"}
-{"level":30,"time":"2021-02-10T10:31:44.198Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changing current active page"}
-{"level":30,"time":"2021-02-10T10:31:44.198Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active page"}
-{"level":30,"time":"2021-02-10T10:31:44.892Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active context"}
-{"level":30,"time":"2021-02-10T10:31:45.195Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Video path: undefined"}
-{"level":30,"time":"2021-02-10T10:31:45.195Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active page"}
-{"level":30,"time":"2021-02-10T10:31:50.894Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
-{"level":30,"time":"2021-02-10T10:31:51.378Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active context"}
-{"level":30,"time":"2021-02-10T10:31:51.378Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changing current active page"}
-{"level":30,"time":"2021-02-10T10:31:51.378Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active page"}
-{"level":30,"time":"2021-02-10T10:31:51.420Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active context"}
-{"level":30,"time":"2021-02-10T10:31:51.420Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changing current active page"}
-{"level":30,"time":"2021-02-10T10:31:51.420Z","pid":5056,"hostname":"LIVELO1587-N","msg":"Changed active page"}
+{"level":30,"time":"2021-02-11T10:05:59.999Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Listening on 53755"}
+{"level":30,"time":"2021-02-11T10:06:00.637Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Changed active context"}
+{"level":30,"time":"2021-02-11T10:06:00.945Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-11T10:06:00.946Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Changed active page"}
+{"level":30,"time":"2021-02-11T10:06:05.672Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:05.696Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:05.720Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:05.743Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:05.775Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:05.808Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:05.840Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:05.870Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:05.898Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:05.930Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:05.971Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.001Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.030Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.056Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.091Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.128Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.162Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.193Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.223Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.253Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.280Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.313Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.345Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.373Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.406Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.430Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.461Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.491Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.524Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.557Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.578Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.608Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.638Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Tocadas Recentemente"}
+{"level":30,"time":"2021-02-11T10:06:06.702Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Buscar"}
+{"level":30,"time":"2021-02-11T10:06:07.383Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Buscar"}
+{"level":30,"time":"2021-02-11T10:06:07.407Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Buscar"}
+{"level":30,"time":"2021-02-11T10:06:07.433Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Buscar"}
+{"level":30,"time":"2021-02-11T10:06:07.457Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Buscar"}
+{"level":30,"time":"2021-02-11T10:06:07.478Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Buscar"}
+{"level":30,"time":"2021-02-11T10:06:07.501Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Buscar"}
+{"level":30,"time":"2021-02-11T10:06:07.523Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Buscar"}
+{"level":30,"time":"2021-02-11T10:06:07.545Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Buscar"}
+{"level":30,"time":"2021-02-11T10:06:07.567Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Buscar"}
+{"level":30,"time":"2021-02-11T10:06:07.590Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Buscar"}
+{"level":30,"time":"2021-02-11T10:06:07.626Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Buscar"}
+{"level":30,"time":"2021-02-11T10:06:07.648Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Buscar"}
+{"level":30,"time":"2021-02-11T10:06:07.684Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Buscar"}
+{"level":30,"time":"2021-02-11T10:06:07.705Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Buscar"}
+{"level":30,"time":"2021-02-11T10:06:07.741Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Buscar"}
+{"level":30,"time":"2021-02-11T10:06:07.762Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Buscar"}
+{"level":30,"time":"2021-02-11T10:06:07.793Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:07.853Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:07.877Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:07.899Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:07.919Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:07.943Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:07.966Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:07.988Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:08.018Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:08.049Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:08.078Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:08.100Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:08.121Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:08.143Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:08.167Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:08.194Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:08.216Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:08.253Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:08.282Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:08.303Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:08.339Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:08.369Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:08.390Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:08.411Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:08.434Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Sertanejo"}
+{"level":30,"time":"2021-02-11T10:06:08.472Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Retrieved dom property for element h2 containing Músicas"}
+{"level":30,"time":"2021-02-11T10:06:18.561Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Changed active context"}
+{"level":30,"time":"2021-02-11T10:06:18.562Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-11T10:06:18.562Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Changed active page"}
+{"level":30,"time":"2021-02-11T10:06:18.586Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Changed active context"}
+{"level":30,"time":"2021-02-11T10:06:18.586Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-11T10:06:18.586Z","pid":17176,"hostname":"LIVELO1587-N","msg":"Changed active page"}

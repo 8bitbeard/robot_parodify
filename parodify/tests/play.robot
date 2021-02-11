@@ -1,0 +1,26 @@
+***Settings***
+Documentation   Testando a reprodução de paródias
+
+Resource        ../resources/base.robot
+
+
+***Test Cases***
+Reproduzir a paródia Bug de Manhã
+    Open Login Page
+    Login With                       papito@parodify.com    pwd123
+    Logout Link Should Be Visible
+
+    Click                            css=a[href*=search]
+    Get Text                         h2                     equal   Buscar
+
+    Click                            xpath=//img[contains(@src, "sertanejo.png")]/..
+    Get Text                         h2                     equal   Sertanejo
+
+    Click                            xpath=//p[contains(text(), "Marcus e Debug")]/..
+    Get Text                         h2                     equal   Músicas
+
+    Click                            css=a[data-song$="bugdemanha.mp3"]
+
+    #Temporário
+    Sleep                            10
+
